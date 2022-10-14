@@ -1,0 +1,10 @@
+{
+    "name":"john logo",
+    "type":"logo",
+    "discription":"john cha logo",
+    "orientation":"portrait",
+    "start_url":"/logo",
+    "background_color":"#00F",
+    "theme_color":"#00F",
+    "display":"standalone"
+}
